@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@hookform/resolvers": "^3.10.0",
     "@react-native/new-app-screen": "0.83.1",
     "@react-navigation/bottom-tabs": "^7.15.5",
@@ -27,13 +28,23 @@
     "react-native-vector-icons": "^9.2.0",
     "react-native-worklets": "^0.7.2",
     "zod": "^3.25.76"
+=======
+    "react": "19.2.0",
+    "react-native": "0.83.1",
+    "@react-native/new-app-screen": "0.83.1",
+    "react-native-safe-area-context": "^5.5.2"
+>>>>>>> 2b1e34fdbff0cf49721f15805e4451f37aedf3a1
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@babel/preset-env": "^7.25.3",
     "@babel/runtime": "^7.25.0",
     "@react-native-community/cli": "20.0.0",
+<<<<<<< HEAD
     "@react-native-community/cli-platform-android": "^20.0.0",
+=======
+    "@react-native-community/cli-platform-android": "20.0.0",
+>>>>>>> 2b1e34fdbff0cf49721f15805e4451f37aedf3a1
     "@react-native-community/cli-platform-ios": "20.0.0",
     "@react-native/babel-preset": "0.83.1",
     "@react-native/eslint-config": "0.83.1",
@@ -41,16 +52,26 @@
     "@react-native/typescript-config": "0.83.1",
     "@types/jest": "^29.5.13",
     "@types/react": "^19.2.0",
+<<<<<<< HEAD
     "@types/react-native-vector-icons": "^6.4.18",
+=======
+>>>>>>> 2b1e34fdbff0cf49721f15805e4451f37aedf3a1
     "@types/react-test-renderer": "^19.1.0",
     "eslint": "^8.19.0",
     "jest": "^29.6.3",
     "prettier": "2.8.8",
+<<<<<<< HEAD
     "react-native-gradle-plugin": "^0.71.19",
+=======
+>>>>>>> 2b1e34fdbff0cf49721f15805e4451f37aedf3a1
     "react-test-renderer": "19.2.0",
     "typescript": "^5.8.3"
   },
   "engines": {
     "node": ">=20"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2b1e34fdbff0cf49721f15805e4451f37aedf3a1

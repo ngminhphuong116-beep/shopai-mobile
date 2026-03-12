@@ -3,4 +3,8 @@ plugins { id("com.facebook.react.settings") }
 extensions.configure(com.facebook.react.ReactSettingsExtension){ ex -> ex.autolinkLibrariesFromCommand() }
 rootProject.name = 'ShopAI'
 include ':app'
+<<<<<<< HEAD
 includeBuild('../node_modules/@react-native/gradle-plugin')
+=======
+includeBuild('../node_modules/@react-native/gradle-plugin')
+>>>>>>> 2b1e34fdbff0cf49721f15805e4451f37aedf3a1

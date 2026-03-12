@@ -1,6 +1,10 @@
 buildscript {
     ext {
+<<<<<<< HEAD
         buildToolsVersion = "35.0.0"
+=======
+        buildToolsVersion = "36.0.0"
+>>>>>>> 2b1e34fdbff0cf49721f15805e4451f37aedf3a1
         minSdkVersion = 24
         compileSdkVersion = 36
         targetSdkVersion = 36
@@ -16,8 +20,11 @@ buildscript {
         classpath("com.facebook.react:react-native-gradle-plugin")
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin")
     }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 2b1e34fdbff0cf49721f15805e4451f37aedf3a1
 }
 
 apply plugin: "com.facebook.react.rootproject"
